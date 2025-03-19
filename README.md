@@ -226,9 +226,9 @@ pip install pydub simpleaudio
     *   The converted WAV files will be saved in the same directory as the original MP3 files, with the same filenames (but with a `.wav` extension).  A message box will appear when the conversion is complete.
 
 ## Contributing
-
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
+## License
 This project is licensed under the MIT License - see the LICENSE file for details. (Create a file named LICENSE and put the MIT license text in it).
 
 
