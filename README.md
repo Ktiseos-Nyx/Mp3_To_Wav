@@ -229,6 +229,6 @@ pip install pydub simpleaudio
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details. (Create a file named LICENSE and put the MIT license text in it).
+This project is licensed under the MIT License - see the LICENSE file for details. 
 
 
