@@ -1,6 +1,7 @@
 # Mp3 to Wav Converter
 
-A Tkinter-based GUI application that uses Pydub to convert one or more MP3 files to WAV format.
+A Tkinter-based GUI application that uses Pydub to convert one or more MP3 files to WAV format. This is under heavy developmenet, and is inspired by many other tools.
+It was created in the heat of a fever-dream to solve something that could not be solved (as my partner didn't know how to install Python in the right drive). 
 
 ## Table of Contents
 
